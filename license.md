@@ -188,6 +188,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Gray Zone Warfare · Updated 2026-11-23 · Shared under the MIT License*
+*Gray Zone Warfare · Updated 2026-11-24 · Shared under the MIT License*
 
-<!-- last reviewed 2026-11-23 -->
+<!-- last reviewed 2026-11-24 -->
